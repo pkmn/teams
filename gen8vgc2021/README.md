@@ -1,0 +1,9 @@
+# [Gen 8] VGC 2021
+
+| Date | Team | Source | Valid | Rating |
+| :---: | :---: | :--- | :---: | :---: |
+| 2021-06-12 | [![Togekiss](https://www.smogon.com/forums/media/minisprites/togekiss.png)![Azurill](https://www.smogon.com/forums/media/minisprites/azurill.png)![Dracozolt](https://www.smogon.com/forums/media/minisprites/dracozolt.png)![Lilligant](https://www.smogon.com/forums/media/minisprites/lilligant.png)![Runerigus](https://www.smogon.com/forums/media/minisprites/runerigus.png)![Torkoal](https://www.smogon.com/forums/media/minisprites/torkoal.png)](fa815fd3410f) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/nxxg6d/vgc_i_made_it_to_master_ball_in_series_9_using_an/) | ✓ |  |
+| 2021-04-13 | [![Dartrix](https://www.smogon.com/forums/media/minisprites/dartrix.png)![Blacephalon](https://www.smogon.com/forums/media/minisprites/blacephalon.png)![Calyrex-Ice](https://www.smogon.com/forums/media/minisprites/calyrex-ice.png)![Indeedee](https://www.smogon.com/forums/media/minisprites/indeedee.png)![Inteleon](https://www.smogon.com/forums/media/minisprites/inteleon.png)![Regidrago](https://www.smogon.com/forums/media/minisprites/regidrago.png)](20bce71905f9) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/mpsojv/players_cup_4_qualifiers_got_21_wins_and_13/) | ✗ |  |
+| 2021-01-27 | [![Spectrier](https://www.smogon.com/forums/media/minisprites/spectrier.png)![Landorus-Therian](https://www.smogon.com/forums/media/minisprites/landorus-therian.png)![Moltres-Galar](https://www.smogon.com/forums/media/minisprites/moltres-galar.png)![Sableye](https://www.smogon.com/forums/media/minisprites/sableye.png)![Solgaleo](https://www.smogon.com/forums/media/minisprites/solgaleo.png)![Tapu Fini](https://www.smogon.com/forums/media/minisprites/tapu-fini.png)](c613e8073f8e) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/l6gfe6/my_new_vgc_series_8_solgaleo_team/) | ✗ |  |
+
+*Last fetched: 2026-11-04*
