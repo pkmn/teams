@@ -1,0 +1,9 @@
+# [Gen 8] VGC 2020
+
+| Date | Team | Source | Valid | Rating |
+| :---: | :---: | :--- | :---: | :---: |
+| 2020-02-07 | [![Gardevoir](https://www.smogon.com/forums/media/minisprites/gardevoir.png)![Abomasnow](https://www.smogon.com/forums/media/minisprites/abomasnow.png)![Arctozolt](https://www.smogon.com/forums/media/minisprites/arctozolt.png)![Chandelure](https://www.smogon.com/forums/media/minisprites/chandelure.png)![Milotic](https://www.smogon.com/forums/media/minisprites/milotic.png)![Noivern](https://www.smogon.com/forums/media/minisprites/noivern.png)](a31cbbb8978e) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/f0dueq/building_a_fairly_weird_vgc_2020_team_and_need/) | ✓ |  |
+| 2020-02-07 | [![Gardevoir](https://www.smogon.com/forums/media/minisprites/gardevoir.png)![Abomasnow](https://www.smogon.com/forums/media/minisprites/abomasnow.png)![Arctozolt](https://www.smogon.com/forums/media/minisprites/arctozolt.png)![Chandelure](https://www.smogon.com/forums/media/minisprites/chandelure.png)![Milotic](https://www.smogon.com/forums/media/minisprites/milotic.png)![Noivern](https://www.smogon.com/forums/media/minisprites/noivern.png)](aeaa3cf26b7c) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/f0dueq/building_a_fairly_weird_vgc_2020_team_and_need/) | ✓ |  |
+| 2020-02-07 | [![Gardevoir](https://www.smogon.com/forums/media/minisprites/gardevoir.png)![Abomasnow](https://www.smogon.com/forums/media/minisprites/abomasnow.png)![Arctozolt](https://www.smogon.com/forums/media/minisprites/arctozolt.png)![Chandelure](https://www.smogon.com/forums/media/minisprites/chandelure.png)![Milotic](https://www.smogon.com/forums/media/minisprites/milotic.png)![Noivern](https://www.smogon.com/forums/media/minisprites/noivern.png)](e303e2b16c93) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/f0dueq/building_a_fairly_weird_vgc_2020_team_and_need/) | ✓ |  |
+
+*Last fetched: 2026-11-04*

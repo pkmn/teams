@@ -1,0 +1,9 @@
+# [Gen 8] Godly Gift
+
+| Date | Team | Source | Valid | Rating |
+| :---: | :---: | :--- | :---: | :---: |
+| 2022-11-02 | [![Tapu Lele](https://www.smogon.com/forums/media/minisprites/tapu-lele.png)![Liepard](https://www.smogon.com/forums/media/minisprites/liepard.png)![Miltank](https://www.smogon.com/forums/media/minisprites/miltank.png)![Pheromosa](https://www.smogon.com/forums/media/minisprites/pheromosa.png)![Slurpuff](https://www.smogon.com/forums/media/minisprites/slurpuff.png)![Sylveon](https://www.smogon.com/forums/media/minisprites/sylveon.png)](27d7059b9bbb) | [RMT Forum](https://www.smogon.com/forums/threads/godly-gift-echo-of-heroes.3710136/) | - |  |
+| 2022-10-08 | [![Skarmory](https://www.smogon.com/forums/media/minisprites/skarmory.png)![Nihilego](https://www.smogon.com/forums/media/minisprites/nihilego.png)![Tangrowth](https://www.smogon.com/forums/media/minisprites/tangrowth.png)![Tapu Fini](https://www.smogon.com/forums/media/minisprites/tapu-fini.png)![Weavile](https://www.smogon.com/forums/media/minisprites/weavile.png)![Yveltal](https://www.smogon.com/forums/media/minisprites/yveltal.png)](20fe17f54d37) | [RMT Forum](https://www.smogon.com/forums/threads/godly-gift-singularity-dark-spam-spikes.3708982/) | - |  |
+| 2022-07-21 | [![Shuckle](https://www.smogon.com/forums/media/minisprites/shuckle.png)![Blacephalon](https://www.smogon.com/forums/media/minisprites/blacephalon.png)![Clefable](https://www.smogon.com/forums/media/minisprites/clefable.png)![Kartana](https://www.smogon.com/forums/media/minisprites/kartana.png)![Landorus-Therian](https://www.smogon.com/forums/media/minisprites/landorus-therian.png)![Slowbro](https://www.smogon.com/forums/media/minisprites/slowbro.png)](100546d6d0c0) | [RMT Showcase](https://www.smogon.com/forums/threads/xs-godly-gift-24-1-on-ladder.3705149/) | - |  |
+
+*Last fetched: 2026-11-04*
