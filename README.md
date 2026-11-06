@@ -2,7 +2,7 @@
 
 | Format | Valid | Total |
 | :--- | :---: | :---: |
-| [[Gen 9 Champions] VGC 2026 Reg M-C](gen9championsvgc2026regmc/) | 651 | 651 |
+| [[Gen 9 Champions] VGC 2026 Reg M-C](gen9championsvgc2026regmc/) | 649 | 649 |
 | [[Gen 9] OU](gen9ou/) | 582 | 803 |
 | [[Gen 8] OU](gen8ou/) | 599 | 618 |
 | [[Gen 7] OU](gen7ou/) | 458 | 494 |
