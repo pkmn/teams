@@ -14,4 +14,4 @@
 | 2024-08-01 | [![Onix](https://www.smogon.com/forums/media/minisprites/onix.png)![Dugtrio](https://www.smogon.com/forums/media/minisprites/dugtrio.png)![Golem](https://www.smogon.com/forums/media/minisprites/golem.png)![Nidoking](https://www.smogon.com/forums/media/minisprites/nidoking.png)![Rhydon](https://www.smogon.com/forums/media/minisprites/rhydon.png)![Sandslash](https://www.smogon.com/forums/media/minisprites/sandslash.png)](e3335d6784cb) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1monotype.json) | - |  |
 | 2024-08-01 | [![Electrode](https://www.smogon.com/forums/media/minisprites/electrode.png)![Electabuzz](https://www.smogon.com/forums/media/minisprites/electabuzz.png)![Jolteon](https://www.smogon.com/forums/media/minisprites/jolteon.png)![Magneton](https://www.smogon.com/forums/media/minisprites/magneton.png)![Raichu](https://www.smogon.com/forums/media/minisprites/raichu.png)![Zapdos](https://www.smogon.com/forums/media/minisprites/zapdos.png)](ed8d6552737e) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1monotype.json) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

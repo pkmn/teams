@@ -8,4 +8,4 @@
 | 2024-08-01 | [![Kadabra](https://www.smogon.com/forums/media/minisprites/kadabra.png)![Dragonair](https://www.smogon.com/forums/media/minisprites/dragonair.png)![Graveler](https://www.smogon.com/forums/media/minisprites/graveler.png)![Haunter](https://www.smogon.com/forums/media/minisprites/haunter.png)![Poliwhirl](https://www.smogon.com/forums/media/minisprites/poliwhirl.png)![Wartortle](https://www.smogon.com/forums/media/minisprites/wartortle.png)](b4fd183b9ae6) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1middlecup.json) | - |  |
 | 2024-08-01 | [![Kadabra](https://www.smogon.com/forums/media/minisprites/kadabra.png)![Charmeleon](https://www.smogon.com/forums/media/minisprites/charmeleon.png)![Dragonair](https://www.smogon.com/forums/media/minisprites/dragonair.png)![Graveler](https://www.smogon.com/forums/media/minisprites/graveler.png)![Haunter](https://www.smogon.com/forums/media/minisprites/haunter.png)![Poliwhirl](https://www.smogon.com/forums/media/minisprites/poliwhirl.png)](c7572077b746) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1middlecup.json) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

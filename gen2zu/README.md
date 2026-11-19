@@ -16,4 +16,4 @@
 | 2024-08-01 | [![Togetic](https://www.smogon.com/forums/media/minisprites/togetic.png)![Croconaw](https://www.smogon.com/forums/media/minisprites/croconaw.png)![Poliwag](https://www.smogon.com/forums/media/minisprites/poliwag.png)![Smoochum](https://www.smogon.com/forums/media/minisprites/smoochum.png)![Tentacool](https://www.smogon.com/forums/media/minisprites/tentacool.png)![Weepinbell](https://www.smogon.com/forums/media/minisprites/weepinbell.png)](9af678066383) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen2zu.json) | ✓ |  |
 | 2024-08-01 | [![Butterfree](https://www.smogon.com/forums/media/minisprites/butterfree.png)![Ivysaur](https://www.smogon.com/forums/media/minisprites/ivysaur.png)![Koffing](https://www.smogon.com/forums/media/minisprites/koffing.png)![Magby](https://www.smogon.com/forums/media/minisprites/magby.png)![Seel](https://www.smogon.com/forums/media/minisprites/seel.png)![Togetic](https://www.smogon.com/forums/media/minisprites/togetic.png)](ae2bcf154a0c) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen2zu.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -14,4 +14,4 @@
 | 2026-07-12 | [![Flutter Mane](https://www.smogon.com/forums/media/minisprites/flutter-mane.png)![Iron Hands](https://www.smogon.com/forums/media/minisprites/iron-hands.png)![Ogerpon-Cornerstone](https://www.smogon.com/forums/media/minisprites/ogerpon-cornerstone.png)![Volcanion](https://www.smogon.com/forums/media/minisprites/volcanion.png)](8dafeaeb8bb0) | [crob.at](https://crob.at/7bT946zj) | ✓ |  |
 | 2026-07-12 | [![Gouging Fire](https://www.smogon.com/forums/media/minisprites/gouging-fire.png)![Iron Hands](https://www.smogon.com/forums/media/minisprites/iron-hands.png)![Ogerpon-Wellspring](https://www.smogon.com/forums/media/minisprites/ogerpon-wellspring.png)![Ting-Lu](https://www.smogon.com/forums/media/minisprites/ting-lu.png)](cc7d44ddc1ce) | [crob.at](https://crob.at/KQODTLmk) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

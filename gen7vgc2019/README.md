@@ -4,4 +4,4 @@
 | :---: | :---: | :--- | :---: | :---: |
 | 2019-01-05 | [![Amoonguss](https://www.smogon.com/forums/media/minisprites/amoonguss.png)![Dialga](https://www.smogon.com/forums/media/minisprites/dialga.png)![Latios](https://www.smogon.com/forums/media/minisprites/latios.png)![Palkia](https://www.smogon.com/forums/media/minisprites/palkia.png)![Sableye](https://www.smogon.com/forums/media/minisprites/sableye.png)![Thundurus-Therian](https://www.smogon.com/forums/media/minisprites/thundurus-therian.png)](b70eb6275383) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/acrhlz/zstatus_moves_to_watch_for_in_the_moon_series/) | ✗ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

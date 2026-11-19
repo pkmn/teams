@@ -23,4 +23,4 @@
 | 2025-09-13 | [![Arceus](https://www.smogon.com/forums/media/minisprites/arceus.png)![Chien-Pao](https://www.smogon.com/forums/media/minisprites/chien-pao.png)![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Gholdengo](https://www.smogon.com/forums/media/minisprites/gholdengo.png)![Miraidon](https://www.smogon.com/forums/media/minisprites/miraidon.png)![Ting-Lu](https://www.smogon.com/forums/media/minisprites/ting-lu.png)](89e399ecf29e) | [Smogon Bazaar](https://www.smogon.com/forums/posts/10703503/) | - |  |
 | 2025-08-29 | [![Calyrex-Shadow](https://www.smogon.com/forums/media/minisprites/calyrex-shadow.png)![Chien-Pao](https://www.smogon.com/forums/media/minisprites/chien-pao.png)![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Miraidon](https://www.smogon.com/forums/media/minisprites/miraidon.png)![Regieleki](https://www.smogon.com/forums/media/minisprites/regieleki.png)![Ting-Lu](https://www.smogon.com/forums/media/minisprites/ting-lu.png)](90b4c9ddeb49) | [Smogon Bazaar](https://www.smogon.com/forums/posts/10687766/) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

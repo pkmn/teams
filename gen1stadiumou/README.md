@@ -15,4 +15,4 @@
 | 2024-08-01 | [![Exeggutor](https://www.smogon.com/forums/media/minisprites/exeggutor.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Kangaskhan](https://www.smogon.com/forums/media/minisprites/kangaskhan.png)![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)![Starmie](https://www.smogon.com/forums/media/minisprites/starmie.png)![Tauros](https://www.smogon.com/forums/media/minisprites/tauros.png)](c6bb64a1c645) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1stadiumou.json) | ✓ |  |
 | 2024-08-01 | [![Persian](https://www.smogon.com/forums/media/minisprites/persian.png)![Alakazam](https://www.smogon.com/forums/media/minisprites/alakazam.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Exeggutor](https://www.smogon.com/forums/media/minisprites/exeggutor.png)![Rhydon](https://www.smogon.com/forums/media/minisprites/rhydon.png)![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)](e457540203e4) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1stadiumou.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

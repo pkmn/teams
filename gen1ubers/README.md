@@ -28,4 +28,4 @@
 | 2024-08-01 | [![Alakazam](https://www.smogon.com/forums/media/minisprites/alakazam.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Mew](https://www.smogon.com/forums/media/minisprites/mew.png)![Mewtwo](https://www.smogon.com/forums/media/minisprites/mewtwo.png)![Slowbro](https://www.smogon.com/forums/media/minisprites/slowbro.png)![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)](f4c4879d4e5f) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1ubers.json) | ✓ |  |
 | 2024-08-01 | [![Jynx](https://www.smogon.com/forums/media/minisprites/jynx.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Mew](https://www.smogon.com/forums/media/minisprites/mew.png)![Mewtwo](https://www.smogon.com/forums/media/minisprites/mewtwo.png)![Slowbro](https://www.smogon.com/forums/media/minisprites/slowbro.png)![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)](f79b4059117e) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1ubers.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

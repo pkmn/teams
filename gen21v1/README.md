@@ -10,4 +10,4 @@
 | 2026-10-30 | [![Heracross](https://www.smogon.com/forums/media/minisprites/heracross.png)![Exeggutor](https://www.smogon.com/forums/media/minisprites/exeggutor.png)![Vaporeon](https://www.smogon.com/forums/media/minisprites/vaporeon.png)](e448daccb956) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen21v1.json) | ✓ |  |
 | 2026-10-30 | [![Articuno](https://www.smogon.com/forums/media/minisprites/articuno.png)![Jolteon](https://www.smogon.com/forums/media/minisprites/jolteon.png)![Marowak](https://www.smogon.com/forums/media/minisprites/marowak.png)](f0728b57bad0) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen21v1.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

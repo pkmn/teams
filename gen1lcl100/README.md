@@ -18,4 +18,4 @@
 | 2024-08-01 | [![Abra](https://www.smogon.com/forums/media/minisprites/abra.png)![Diglett](https://www.smogon.com/forums/media/minisprites/diglett.png)![Exeggcute](https://www.smogon.com/forums/media/minisprites/exeggcute.png)![Gastly](https://www.smogon.com/forums/media/minisprites/gastly.png)![Kabuto](https://www.smogon.com/forums/media/minisprites/kabuto.png)![Staryu](https://www.smogon.com/forums/media/minisprites/staryu.png)](ec88b04d2aff) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1lcl100.json) | - |  |
 | 2024-08-01 | [![Staryu](https://www.smogon.com/forums/media/minisprites/staryu.png)![Abra](https://www.smogon.com/forums/media/minisprites/abra.png)![Diglett](https://www.smogon.com/forums/media/minisprites/diglett.png)![Dratini](https://www.smogon.com/forums/media/minisprites/dratini.png)![Exeggcute](https://www.smogon.com/forums/media/minisprites/exeggcute.png)![Gastly](https://www.smogon.com/forums/media/minisprites/gastly.png)](f5e6ad8cf0be) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1lcl100.json) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -32,4 +32,4 @@
 | 2025-01-14 | [![Archaludon](https://www.smogon.com/forums/media/minisprites/archaludon.png)![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Dragapult](https://www.smogon.com/forums/media/minisprites/dragapult.png)![Primarina](https://www.smogon.com/forums/media/minisprites/primarina.png)![Sneasler](https://www.smogon.com/forums/media/minisprites/sneasler.png)![Ursaluna](https://www.smogon.com/forums/media/minisprites/ursaluna.png)](ddae979124fb) | [Smogon Bazaar](https://www.smogon.com/forums/posts/10406161/) | - |  |
 | 2025-01-14 | [![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Garchomp](https://www.smogon.com/forums/media/minisprites/garchomp.png)![Gholdengo](https://www.smogon.com/forums/media/minisprites/gholdengo.png)![Porygon2](https://www.smogon.com/forums/media/minisprites/porygon2.png)![Scizor](https://www.smogon.com/forums/media/minisprites/scizor.png)![Sneasler](https://www.smogon.com/forums/media/minisprites/sneasler.png)](df1c6dcd883b) | [Smogon Bazaar](https://www.smogon.com/forums/posts/10406161/) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

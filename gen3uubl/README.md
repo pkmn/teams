@@ -7,4 +7,4 @@
 | 2025-01-01 | [![Donphan](https://www.smogon.com/forums/media/minisprites/donphan.png)![Houndoom](https://www.smogon.com/forums/media/minisprites/houndoom.png)![Medicham](https://www.smogon.com/forums/media/minisprites/medicham.png)![Registeel](https://www.smogon.com/forums/media/minisprites/registeel.png)![Vaporeon](https://www.smogon.com/forums/media/minisprites/vaporeon.png)![Weezing](https://www.smogon.com/forums/media/minisprites/weezing.png)](a8cd7a643783) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10387158/) | ✗ |  |
 | 2025-01-01 | [![Donphan](https://www.smogon.com/forums/media/minisprites/donphan.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Hariyama](https://www.smogon.com/forums/media/minisprites/hariyama.png)![Houndoom](https://www.smogon.com/forums/media/minisprites/houndoom.png)![Omastar](https://www.smogon.com/forums/media/minisprites/omastar.png)![Weezing](https://www.smogon.com/forums/media/minisprites/weezing.png)](e0f03f4fbe36) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10387158/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

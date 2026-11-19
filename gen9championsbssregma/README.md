@@ -16,4 +16,4 @@
 | 2026-04-21 | [![Ceruledge](https://www.smogon.com/forums/media/minisprites/ceruledge.png)![Corviknight](https://www.smogon.com/forums/media/minisprites/corviknight.png)![Garchomp](https://www.smogon.com/forums/media/minisprites/garchomp.png)![Greninja](https://www.smogon.com/forums/media/minisprites/greninja.png)![Meowscarada](https://www.smogon.com/forums/media/minisprites/meowscarada.png)![Sneasler](https://www.smogon.com/forums/media/minisprites/sneasler.png)](8addc37b277f) | [Smogon Bazaar](https://www.smogon.com/forums/posts/10964085/) | - |  |
 | 2026-04-20 | [![Bellibolt](https://www.smogon.com/forums/media/minisprites/bellibolt.png)![Clefable](https://www.smogon.com/forums/media/minisprites/clefable.png)![Corviknight](https://www.smogon.com/forums/media/minisprites/corviknight.png)![Garchomp](https://www.smogon.com/forums/media/minisprites/garchomp.png)![Hydreigon](https://www.smogon.com/forums/media/minisprites/hydreigon.png)![Venusaur](https://www.smogon.com/forums/media/minisprites/venusaur.png)](093d142a10b9) | [Smogon Bazaar](https://www.smogon.com/forums/posts/10962406/) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

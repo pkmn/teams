@@ -37,4 +37,4 @@
 | 2023-03-03 | [![Croconaw](https://www.smogon.com/forums/media/minisprites/croconaw.png)![Bayleef](https://www.smogon.com/forums/media/minisprites/bayleef.png)![Magby](https://www.smogon.com/forums/media/minisprites/magby.png)![Mankey](https://www.smogon.com/forums/media/minisprites/mankey.png)![Smoochum](https://www.smogon.com/forums/media/minisprites/smoochum.png)![Togetic](https://www.smogon.com/forums/media/minisprites/togetic.png)](6249ef657048) | [Tournament Team Dump](https://www.smogon.com/forums/posts/9529662/) | ✓ |  |
 | 2023-03-03 | [![Magby](https://www.smogon.com/forums/media/minisprites/magby.png)![Croconaw](https://www.smogon.com/forums/media/minisprites/croconaw.png)![Dratini](https://www.smogon.com/forums/media/minisprites/dratini.png)![Krabby](https://www.smogon.com/forums/media/minisprites/krabby.png)![Mareep](https://www.smogon.com/forums/media/minisprites/mareep.png)![Smoochum](https://www.smogon.com/forums/media/minisprites/smoochum.png)](ceb5a0c975ad) | [Tournament Team Dump](https://www.smogon.com/forums/posts/9529662/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -10,4 +10,4 @@
 | 2024-08-01 | [![Zapdos](https://www.smogon.com/forums/media/minisprites/zapdos.png)![Electrode](https://www.smogon.com/forums/media/minisprites/electrode.png)![Exeggutor](https://www.smogon.com/forums/media/minisprites/exeggutor.png)![Jynx](https://www.smogon.com/forums/media/minisprites/jynx.png)![Lapras](https://www.smogon.com/forums/media/minisprites/lapras.png)![Tauros](https://www.smogon.com/forums/media/minisprites/tauros.png)](d8f9cd685409) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1nintendocup1997.json) | - |  |
 | 2024-08-01 | [![Tauros](https://www.smogon.com/forums/media/minisprites/tauros.png)![Electrode](https://www.smogon.com/forums/media/minisprites/electrode.png)![Jynx](https://www.smogon.com/forums/media/minisprites/jynx.png)![Lapras](https://www.smogon.com/forums/media/minisprites/lapras.png)![Rhydon](https://www.smogon.com/forums/media/minisprites/rhydon.png)![Starmie](https://www.smogon.com/forums/media/minisprites/starmie.png)](fcde226f1ed4) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1nintendocup1997.json) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -6,4 +6,4 @@
 | 2026-03-24 | [![Darkrai](https://www.smogon.com/forums/media/minisprites/darkrai.png)![Hydrapple](https://www.smogon.com/forums/media/minisprites/hydrapple.png)![Moltres](https://www.smogon.com/forums/media/minisprites/moltres.png)![Ting-Lu](https://www.smogon.com/forums/media/minisprites/ting-lu.png)![Tinkaton](https://www.smogon.com/forums/media/minisprites/tinkaton.png)![Zamazenta](https://www.smogon.com/forums/media/minisprites/zamazenta.png)](98885003881f) | [crob.at](https://crob.at/PBhwJd) | ✓ |  |
 | 2024-01-08 | [![Arboliva](https://www.smogon.com/forums/media/minisprites/arboliva.png)![Hoopa](https://www.smogon.com/forums/media/minisprites/hoopa.png)![Kyurem-Black](https://www.smogon.com/forums/media/minisprites/kyurem-black.png)![Medicham](https://www.smogon.com/forums/media/minisprites/medicham.png)![Rabsca](https://www.smogon.com/forums/media/minisprites/rabsca.png)![Smeargle](https://www.smogon.com/forums/media/minisprites/smeargle.png)](d76aceee504f) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/191zvtm/theorizing_the_maximum_damage_output_in/) | ✗ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

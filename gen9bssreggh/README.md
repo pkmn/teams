@@ -161,4 +161,4 @@
 | 2022-12-11 | [![Baxcalibur](https://www.smogon.com/forums/media/minisprites/baxcalibur.png)![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Garganacl](https://www.smogon.com/forums/media/minisprites/garganacl.png)![Gengar](https://www.smogon.com/forums/media/minisprites/gengar.png)![Meowscarada](https://www.smogon.com/forums/media/minisprites/meowscarada.png)![Scizor](https://www.smogon.com/forums/media/minisprites/scizor.png)](db532dea38d0) | [Smogon Bazaar](https://www.smogon.com/forums/posts/9431453/) | - |  |
 | 2022-12-11 | [![Annihilape](https://www.smogon.com/forums/media/minisprites/annihilape.png)![Dragonite](https://www.smogon.com/forums/media/minisprites/dragonite.png)![Gholdengo](https://www.smogon.com/forums/media/minisprites/gholdengo.png)![Hydreigon](https://www.smogon.com/forums/media/minisprites/hydreigon.png)![Meowscarada](https://www.smogon.com/forums/media/minisprites/meowscarada.png)![Skeledirge](https://www.smogon.com/forums/media/minisprites/skeledirge.png)](e891b5bfe879) | [Smogon Bazaar](https://www.smogon.com/forums/posts/9431453/) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

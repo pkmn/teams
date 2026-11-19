@@ -13,4 +13,4 @@
 | 2024-01-08 | [![Cacturne](https://www.smogon.com/forums/media/minisprites/cacturne.png)![Dedenne](https://www.smogon.com/forums/media/minisprites/dedenne.png)![Flareon](https://www.smogon.com/forums/media/minisprites/flareon.png)![Gabite](https://www.smogon.com/forums/media/minisprites/gabite.png)![Quaxwell](https://www.smogon.com/forums/media/minisprites/quaxwell.png)![Stonjourner](https://www.smogon.com/forums/media/minisprites/stonjourner.png)](d1d4e4a9888d) | [Smogon Bazaar](https://www.smogon.com/forums/posts/9926716/) | ✓ |  |
 | 2024-01-08 | [![Camerupt](https://www.smogon.com/forums/media/minisprites/camerupt.png)![Dunsparce](https://www.smogon.com/forums/media/minisprites/dunsparce.png)![Indeedee-F](https://www.smogon.com/forums/media/minisprites/indeedee-f.png)![Leafeon](https://www.smogon.com/forums/media/minisprites/leafeon.png)![Quaxwell](https://www.smogon.com/forums/media/minisprites/quaxwell.png)![Stonjourner](https://www.smogon.com/forums/media/minisprites/stonjourner.png)](f018515c6720) | [Smogon Bazaar](https://www.smogon.com/forums/posts/9926716/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

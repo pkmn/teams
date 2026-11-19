@@ -294,4 +294,4 @@
 | 2023-06-01 | [![Basculegion](https://www.smogon.com/forums/media/minisprites/basculegion.png)![Cresselia](https://www.smogon.com/forums/media/minisprites/cresselia.png)![Iron Hands](https://www.smogon.com/forums/media/minisprites/iron-hands.png)![Moltres-Galar](https://www.smogon.com/forums/media/minisprites/moltres-galar.png)![Torkoal](https://www.smogon.com/forums/media/minisprites/torkoal.png)![Ursaluna](https://www.smogon.com/forums/media/minisprites/ursaluna.png)](5c59154fce43) | [VGCPastes](https://pokepast.es/d72723705c7b1ece) | ✓ |  |
 | 2023-06-01 | [![Abomasnow](https://www.smogon.com/forums/media/minisprites/abomasnow.png)![Bronzong](https://www.smogon.com/forums/media/minisprites/bronzong.png)![Cresselia](https://www.smogon.com/forums/media/minisprites/cresselia.png)![Glastrier](https://www.smogon.com/forums/media/minisprites/glastrier.png)![Iron Hands](https://www.smogon.com/forums/media/minisprites/iron-hands.png)![Ursaluna](https://www.smogon.com/forums/media/minisprites/ursaluna.png)](f5f36cc19763) | [VGCPastes](https://pokepast.es/07ef1d49849a84db) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

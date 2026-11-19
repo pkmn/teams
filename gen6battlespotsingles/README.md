@@ -8,4 +8,4 @@
 | 2024-06-30 | [![Blaziken](https://www.smogon.com/forums/media/minisprites/blaziken.png)![Ferrothorn](https://www.smogon.com/forums/media/minisprites/ferrothorn.png)![Gengar](https://www.smogon.com/forums/media/minisprites/gengar.png)![Mamoswine](https://www.smogon.com/forums/media/minisprites/mamoswine.png)![Suicune](https://www.smogon.com/forums/media/minisprites/suicune.png)![Thundurus](https://www.smogon.com/forums/media/minisprites/thundurus.png)](effe0f8d880b) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10171649/) | ✓ |  |
 | 2024-06-30 | [![Breloom](https://www.smogon.com/forums/media/minisprites/breloom.png)![Gengar](https://www.smogon.com/forums/media/minisprites/gengar.png)![Greninja](https://www.smogon.com/forums/media/minisprites/greninja.png)![Hippowdon](https://www.smogon.com/forums/media/minisprites/hippowdon.png)![Kangaskhan](https://www.smogon.com/forums/media/minisprites/kangaskhan.png)![Thundurus-Therian](https://www.smogon.com/forums/media/minisprites/thundurus-therian.png)](f15c6034fa58) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10171649/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

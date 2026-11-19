@@ -7,4 +7,4 @@
 | 2024-08-01 | [![Cubone](https://www.smogon.com/forums/media/minisprites/cubone.png)![Exeggcute](https://www.smogon.com/forums/media/minisprites/exeggcute.png)![Gastly](https://www.smogon.com/forums/media/minisprites/gastly.png)![Koffing](https://www.smogon.com/forums/media/minisprites/koffing.png)![Porygon](https://www.smogon.com/forums/media/minisprites/porygon.png)![Wailmer](https://www.smogon.com/forums/media/minisprites/wailmer.png)](6377823b70ec) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen3lc.json) | ✗ |  |
 | 2024-08-01 | [![Pineco](https://www.smogon.com/forums/media/minisprites/pineco.png)![Diglett](https://www.smogon.com/forums/media/minisprites/diglett.png)![Duskull](https://www.smogon.com/forums/media/minisprites/duskull.png)![Horsea](https://www.smogon.com/forums/media/minisprites/horsea.png)![Porygon](https://www.smogon.com/forums/media/minisprites/porygon.png)![Voltorb](https://www.smogon.com/forums/media/minisprites/voltorb.png)](b390a4712a92) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen3lc.json) | ✗ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

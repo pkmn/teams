@@ -22,4 +22,4 @@
 | 2024-08-01 | [![Gligar](https://www.smogon.com/forums/media/minisprites/gligar.png)![Chinchou](https://www.smogon.com/forums/media/minisprites/chinchou.png)![Drifloon](https://www.smogon.com/forums/media/minisprites/drifloon.png)![Duskull](https://www.smogon.com/forums/media/minisprites/duskull.png)![Houndour](https://www.smogon.com/forums/media/minisprites/houndour.png)![Munchlax](https://www.smogon.com/forums/media/minisprites/munchlax.png)](c2ddb0799a73) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen4lc.json) | ✗ |  |
 | 2024-08-01 | [![Gastly](https://www.smogon.com/forums/media/minisprites/gastly.png)![Chinchou](https://www.smogon.com/forums/media/minisprites/chinchou.png)![Duskull](https://www.smogon.com/forums/media/minisprites/duskull.png)![Gligar](https://www.smogon.com/forums/media/minisprites/gligar.png)![Houndour](https://www.smogon.com/forums/media/minisprites/houndour.png)![Munchlax](https://www.smogon.com/forums/media/minisprites/munchlax.png)](cb88724069b3) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen4lc.json) | ✗ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

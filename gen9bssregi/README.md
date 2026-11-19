@@ -26,4 +26,4 @@
 | 2024-06-30 | [![Chi-Yu](https://www.smogon.com/forums/media/minisprites/chi-yu.png)![Clodsire](https://www.smogon.com/forums/media/minisprites/clodsire.png)![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Ho-Oh](https://www.smogon.com/forums/media/minisprites/ho-oh.png)![Koraidon](https://www.smogon.com/forums/media/minisprites/koraidon.png)![Leavanny](https://www.smogon.com/forums/media/minisprites/leavanny.png)](d042d4d1c9ec) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10171649/) | ✓ |  |
 | 2024-06-30 | [![Calyrex-Shadow](https://www.smogon.com/forums/media/minisprites/calyrex-shadow.png)![Chien-Pao](https://www.smogon.com/forums/media/minisprites/chien-pao.png)![Dondozo](https://www.smogon.com/forums/media/minisprites/dondozo.png)![Dragonite](https://www.smogon.com/forums/media/minisprites/dragonite.png)![Kyogre](https://www.smogon.com/forums/media/minisprites/kyogre.png)![Ting-Lu](https://www.smogon.com/forums/media/minisprites/ting-lu.png)](e88065fe9870) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10171649/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

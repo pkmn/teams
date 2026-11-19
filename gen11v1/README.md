@@ -12,4 +12,4 @@
 | 2026-10-30 | [![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)![Alakazam](https://www.smogon.com/forums/media/minisprites/alakazam.png)![Starmie](https://www.smogon.com/forums/media/minisprites/starmie.png)](f917d5107966) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen11v1.json) | ✓ |  |
 | 2026-10-30 | [![Tauros](https://www.smogon.com/forums/media/minisprites/tauros.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Jolteon](https://www.smogon.com/forums/media/minisprites/jolteon.png)](fb5071eaa367) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen11v1.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

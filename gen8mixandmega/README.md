@@ -263,4 +263,4 @@
 | 2023-01-09 | [![Buzzwole](https://www.smogon.com/forums/media/minisprites/buzzwole.png)![Groudon](https://www.smogon.com/forums/media/minisprites/groudon.png)![Heatran](https://www.smogon.com/forums/media/minisprites/heatran.png)![Mew](https://www.smogon.com/forums/media/minisprites/mew.png)![Milotic](https://www.smogon.com/forums/media/minisprites/milotic.png)![Regieleki](https://www.smogon.com/forums/media/minisprites/regieleki.png)](ffbbd56dd5f4) | [Smogon Bazaar](https://www.smogon.com/forums/posts/9464259/) | - |  |
 | 2022-03-10 | [![Entei](https://www.smogon.com/forums/media/minisprites/entei.png)![Landorus-Therian](https://www.smogon.com/forums/media/minisprites/landorus-therian.png)![Mew](https://www.smogon.com/forums/media/minisprites/mew.png)![Milotic](https://www.smogon.com/forums/media/minisprites/milotic.png)![Regieleki](https://www.smogon.com/forums/media/minisprites/regieleki.png)![Xerneas](https://www.smogon.com/forums/media/minisprites/xerneas.png)](0c8aeb25f0e3) | [RMT Showcase](https://www.smogon.com/forums/threads/sacred-new-beginnings-mix-and-mega-peaked-at-4th.3698911/) | - |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -12,4 +12,4 @@
 | 2026-05-16 | [![Calyrex-Ice](https://www.smogon.com/forums/media/minisprites/calyrex-ice.png)![Kyogre](https://www.smogon.com/forums/media/minisprites/kyogre.png)![Miraidon](https://www.smogon.com/forums/media/minisprites/miraidon.png)![Rillaboom](https://www.smogon.com/forums/media/minisprites/rillaboom.png)![Xerneas](https://www.smogon.com/forums/media/minisprites/xerneas.png)![Yveltal](https://www.smogon.com/forums/media/minisprites/yveltal.png)](d691014f8bf9) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10993168/) | ✓ |  |
 | 2026-05-16 | [![Arceus-Dark](https://www.smogon.com/forums/media/minisprites/arceus-dark.png)![Calyrex-Shadow](https://www.smogon.com/forums/media/minisprites/calyrex-shadow.png)![Kyogre](https://www.smogon.com/forums/media/minisprites/kyogre.png)![Miraidon](https://www.smogon.com/forums/media/minisprites/miraidon.png)![Rayquaza](https://www.smogon.com/forums/media/minisprites/rayquaza.png)![Zacian](https://www.smogon.com/forums/media/minisprites/zacian.png)](f370c5c28eb3) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10993168/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -13,4 +13,4 @@
 | 2024-08-01 | [![Garchomp](https://www.smogon.com/forums/media/minisprites/garchomp.png)![Jirachi](https://www.smogon.com/forums/media/minisprites/jirachi.png)![Kyurem-Black](https://www.smogon.com/forums/media/minisprites/kyurem-black.png)![Latios](https://www.smogon.com/forums/media/minisprites/latios.png)![Magnezone](https://www.smogon.com/forums/media/minisprites/magnezone.png)![Necturna](https://www.smogon.com/forums/media/minisprites/necturna.png)](bd162015a152) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen5cap.json) | ✓ |  |
 | 2024-08-01 | [![Ferrothorn](https://www.smogon.com/forums/media/minisprites/ferrothorn.png)![Krilowatt](https://www.smogon.com/forums/media/minisprites/krilowatt.png)![Latios](https://www.smogon.com/forums/media/minisprites/latios.png)![Mollux](https://www.smogon.com/forums/media/minisprites/mollux.png)![Politoed](https://www.smogon.com/forums/media/minisprites/politoed.png)![Tomohawk](https://www.smogon.com/forums/media/minisprites/tomohawk.png)](d83290167501) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen5cap.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

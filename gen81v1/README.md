@@ -8,6 +8,7 @@
 | 2026-10-30 | [![Azumarill](https://www.smogon.com/forums/media/minisprites/azumarill.png)![Landorus](https://www.smogon.com/forums/media/minisprites/landorus.png)![Spectrier](https://www.smogon.com/forums/media/minisprites/spectrier.png)](b683f62e0d3f) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen81v1.json) | ✓ |  |
 | 2026-10-30 | [![Azumarill](https://www.smogon.com/forums/media/minisprites/azumarill.png)![Landorus-Therian](https://www.smogon.com/forums/media/minisprites/landorus-therian.png)![Regieleki](https://www.smogon.com/forums/media/minisprites/regieleki.png)](dff6c796b69b) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen81v1.json) | ✓ |  |
 | 2026-07-12 | [![Darmanitan](https://www.smogon.com/forums/media/minisprites/darmanitan.png)![Primarina](https://www.smogon.com/forums/media/minisprites/primarina.png)![Rillaboom](https://www.smogon.com/forums/media/minisprites/rillaboom.png)](92550ef89e08) | [crob.at](https://crob.at/xeD__StQ) | ✓ |  |
+| 2022-12-20 | [![Goodra-Hisui](https://www.smogon.com/forums/media/minisprites/goodra-hisui.png)![Moltres-Galar](https://www.smogon.com/forums/media/minisprites/moltres-galar.png)![Volcanion](https://www.smogon.com/forums/media/minisprites/volcanion.png)](a7227b763c9a) | [Tournament Team Dump](https://www.smogon.com/forums/posts/9441232/) | ✗ |  |
 | 2022-09-09 | [![Rotom-Heat](https://www.smogon.com/forums/media/minisprites/rotom-heat.png)![Tapu Lele](https://www.smogon.com/forums/media/minisprites/tapu-lele.png)![Venusaur](https://www.smogon.com/forums/media/minisprites/venusaur.png)](c4562fe66c1d) | [r/Stunfisk](https://www.reddit.com/r/stunfisk/comments/x9v9v3/number_1_in_1v1_ladder_using_one_team/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

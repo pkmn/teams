@@ -26,4 +26,4 @@
 | 2024-08-01 | [![Arcanine](https://www.smogon.com/forums/media/minisprites/arcanine.png)![Drifblim](https://www.smogon.com/forums/media/minisprites/drifblim.png)![Garchomp](https://www.smogon.com/forums/media/minisprites/garchomp.png)![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)![Tapu Koko](https://www.smogon.com/forums/media/minisprites/tapu-koko.png)![Tapu Lele](https://www.smogon.com/forums/media/minisprites/tapu-lele.png)](f7d4e62020bf) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen7vgc2017.json) | ✓ |  |
 | 2024-08-01 | [![Arcanine](https://www.smogon.com/forums/media/minisprites/arcanine.png)![Gastrodon-East](https://www.smogon.com/forums/media/minisprites/gastrodon-east.png)![Kartana](https://www.smogon.com/forums/media/minisprites/kartana.png)![Muk-Alola](https://www.smogon.com/forums/media/minisprites/muk-alola.png)![Porygon-Z](https://www.smogon.com/forums/media/minisprites/porygon-z.png)![Tapu Fini](https://www.smogon.com/forums/media/minisprites/tapu-fini.png)](febd39f748d8) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen7vgc2017.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

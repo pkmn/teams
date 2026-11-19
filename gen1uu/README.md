@@ -32,4 +32,4 @@
 | 2024-08-01 | [![Arcanine](https://www.smogon.com/forums/media/minisprites/arcanine.png)![Articuno](https://www.smogon.com/forums/media/minisprites/articuno.png)![Dodrio](https://www.smogon.com/forums/media/minisprites/dodrio.png)![Kangaskhan](https://www.smogon.com/forums/media/minisprites/kangaskhan.png)![Persian](https://www.smogon.com/forums/media/minisprites/persian.png)![Tentacruel](https://www.smogon.com/forums/media/minisprites/tentacruel.png)](ed92318422d8) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1uu.json) | ✗ |  |
 | 2024-08-01 | [![Dodrio](https://www.smogon.com/forums/media/minisprites/dodrio.png)![Dugtrio](https://www.smogon.com/forums/media/minisprites/dugtrio.png)![Kadabra](https://www.smogon.com/forums/media/minisprites/kadabra.png)![Kangaskhan](https://www.smogon.com/forums/media/minisprites/kangaskhan.png)![Tangela](https://www.smogon.com/forums/media/minisprites/tangela.png)![Tentacruel](https://www.smogon.com/forums/media/minisprites/tentacruel.png)](f1a33bdcb750) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1uu.json) | ✗ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

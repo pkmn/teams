@@ -16,4 +16,4 @@
 | 2026-10-30 | [![Golduck](https://www.smogon.com/forums/media/minisprites/golduck.png)![Magmar](https://www.smogon.com/forums/media/minisprites/magmar.png)![Nidoking](https://www.smogon.com/forums/media/minisprites/nidoking.png)![Porygon](https://www.smogon.com/forums/media/minisprites/porygon.png)![Seaking](https://www.smogon.com/forums/media/minisprites/seaking.png)![Venusaur](https://www.smogon.com/forums/media/minisprites/venusaur.png)](e5357faae90e) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1pu.json) | ✓ |  |
 | 2026-10-30 | [![Venusaur](https://www.smogon.com/forums/media/minisprites/venusaur.png)![Drowzee](https://www.smogon.com/forums/media/minisprites/drowzee.png)![Golduck](https://www.smogon.com/forums/media/minisprites/golduck.png)![Magmar](https://www.smogon.com/forums/media/minisprites/magmar.png)![Nidoking](https://www.smogon.com/forums/media/minisprites/nidoking.png)![Primeape](https://www.smogon.com/forums/media/minisprites/primeape.png)](ed82e8433de0) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1pu.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

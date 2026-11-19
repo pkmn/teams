@@ -13,4 +13,4 @@
 | 2026-10-30 | [![Venomoth](https://www.smogon.com/forums/media/minisprites/venomoth.png)![Corsola](https://www.smogon.com/forums/media/minisprites/corsola.png)![Delibird](https://www.smogon.com/forums/media/minisprites/delibird.png)![Dunsparce](https://www.smogon.com/forums/media/minisprites/dunsparce.png)![Flaaffy](https://www.smogon.com/forums/media/minisprites/flaaffy.png)![Furret](https://www.smogon.com/forums/media/minisprites/furret.png)](c7b9a56e582c) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen2pu.json) | ✓ |  |
 | 2024-08-01 | [![Delibird](https://www.smogon.com/forums/media/minisprites/delibird.png)![Elekid](https://www.smogon.com/forums/media/minisprites/elekid.png)![Golbat](https://www.smogon.com/forums/media/minisprites/golbat.png)![Murkrow](https://www.smogon.com/forums/media/minisprites/murkrow.png)![Noctowl](https://www.smogon.com/forums/media/minisprites/noctowl.png)![Venomoth](https://www.smogon.com/forums/media/minisprites/venomoth.png)](a39c5e95d24f) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen2pu.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

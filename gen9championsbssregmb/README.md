@@ -14,4 +14,4 @@
 | 2024-06-30 | [![Basculegion](https://www.smogon.com/forums/media/minisprites/basculegion.png)![Garchomp](https://www.smogon.com/forums/media/minisprites/garchomp.png)![Mimikyu](https://www.smogon.com/forums/media/minisprites/mimikyu.png)![Raichu](https://www.smogon.com/forums/media/minisprites/raichu.png)![Scizor](https://www.smogon.com/forums/media/minisprites/scizor.png)![Staraptor](https://www.smogon.com/forums/media/minisprites/staraptor.png)](926dbe7486f8) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10171649/) | ✓ |  |
 | 2024-06-30 | [![Bellibolt](https://www.smogon.com/forums/media/minisprites/bellibolt.png)![Glimmora](https://www.smogon.com/forums/media/minisprites/glimmora.png)![Meowscarada](https://www.smogon.com/forums/media/minisprites/meowscarada.png)![Pyroar](https://www.smogon.com/forums/media/minisprites/pyroar.png)![Starmie](https://www.smogon.com/forums/media/minisprites/starmie.png)![Umbreon](https://www.smogon.com/forums/media/minisprites/umbreon.png)](a74ba0072354) | [Tournament Team Dump](https://www.smogon.com/forums/posts/10171649/) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

@@ -181,4 +181,4 @@
 | 2020-06-12 | [![Mawile](https://www.smogon.com/forums/media/minisprites/mawile.png)![Musharna](https://www.smogon.com/forums/media/minisprites/musharna.png)![Pyukumuku](https://www.smogon.com/forums/media/minisprites/pyukumuku.png)![Togetic](https://www.smogon.com/forums/media/minisprites/togetic.png)![Type: Null](https://www.smogon.com/forums/media/minisprites/type-null.png)![Vibrava](https://www.smogon.com/forums/media/minisprites/vibrava.png)](5bcdc0d5898e) | [RMT Showcase](https://www.smogon.com/forums/threads/susanoo-38-1.3665932/) | ✓ |  |
 | 2020-05-21 | [![Glaceon](https://www.smogon.com/forums/media/minisprites/glaceon.png)![Gourgeist](https://www.smogon.com/forums/media/minisprites/gourgeist.png)![Hitmontop](https://www.smogon.com/forums/media/minisprites/hitmontop.png)![Manectric](https://www.smogon.com/forums/media/minisprites/manectric.png)![Onix](https://www.smogon.com/forums/media/minisprites/onix.png)![Pawniard](https://www.smogon.com/forums/media/minisprites/pawniard.png)](f95f6ff4f0d1) | [RMT Showcase](https://www.smogon.com/forums/threads/peaked-5-kengan-ashura.3664716/) | ✗ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

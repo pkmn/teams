@@ -10,4 +10,4 @@
 | 2024-08-01 | [![Machamp](https://www.smogon.com/forums/media/minisprites/machamp.png)![Cresselia](https://www.smogon.com/forums/media/minisprites/cresselia.png)![Fidgit](https://www.smogon.com/forums/media/minisprites/fidgit.png)![Rhyperior](https://www.smogon.com/forums/media/minisprites/rhyperior.png)![Scizor](https://www.smogon.com/forums/media/minisprites/scizor.png)![Slowking](https://www.smogon.com/forums/media/minisprites/slowking.png)](b3a7c7c5dc03) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen4cap.json) | ✗ |  |
 | 2024-08-01 | [![Syclant](https://www.smogon.com/forums/media/minisprites/syclant.png)![Magneton](https://www.smogon.com/forums/media/minisprites/magneton.png)![Metagross](https://www.smogon.com/forums/media/minisprites/metagross.png)![Revenankh](https://www.smogon.com/forums/media/minisprites/revenankh.png)![Swampert](https://www.smogon.com/forums/media/minisprites/swampert.png)![Togekiss](https://www.smogon.com/forums/media/minisprites/togekiss.png)](c1cef2a8a1b1) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen4cap.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

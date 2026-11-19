@@ -307,4 +307,4 @@
 | 2023-03-26 | [![Abomasnow](https://www.smogon.com/forums/media/minisprites/abomasnow.png)![Chi-Yu](https://www.smogon.com/forums/media/minisprites/chi-yu.png)![Corviknight](https://www.smogon.com/forums/media/minisprites/corviknight.png)![Flutter Mane](https://www.smogon.com/forums/media/minisprites/flutter-mane.png)![Iron Bundle](https://www.smogon.com/forums/media/minisprites/iron-bundle.png)![Slither Wing](https://www.smogon.com/forums/media/minisprites/slither-wing.png)](db497774ce8a) | [VGCPastes](https://pokepast.es/fdc8e2c6f979d8cd) | ✓ |  |
 | 2023-03-25 | [![Arcanine](https://www.smogon.com/forums/media/minisprites/arcanine.png)![Chien-Pao](https://www.smogon.com/forums/media/minisprites/chien-pao.png)![Dragonite](https://www.smogon.com/forums/media/minisprites/dragonite.png)![Flutter Mane](https://www.smogon.com/forums/media/minisprites/flutter-mane.png)![Great Tusk](https://www.smogon.com/forums/media/minisprites/great-tusk.png)![Talonflame](https://www.smogon.com/forums/media/minisprites/talonflame.png)](48e51b134c4b) | [VGCPastes](https://pokepast.es/70cc4f7fe6d4795a) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

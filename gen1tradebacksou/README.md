@@ -8,4 +8,4 @@
 | 2024-08-01 | [![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)![Chansey](https://www.smogon.com/forums/media/minisprites/chansey.png)![Hypno](https://www.smogon.com/forums/media/minisprites/hypno.png)![Persian](https://www.smogon.com/forums/media/minisprites/persian.png)![Starmie](https://www.smogon.com/forums/media/minisprites/starmie.png)![Tauros](https://www.smogon.com/forums/media/minisprites/tauros.png)](977a7bca0d95) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1tradebacksou.json) | ✓ |  |
 | 2024-08-01 | [![Persian](https://www.smogon.com/forums/media/minisprites/persian.png)![Gengar](https://www.smogon.com/forums/media/minisprites/gengar.png)![Hypno](https://www.smogon.com/forums/media/minisprites/hypno.png)![Snorlax](https://www.smogon.com/forums/media/minisprites/snorlax.png)![Starmie](https://www.smogon.com/forums/media/minisprites/starmie.png)![Vaporeon](https://www.smogon.com/forums/media/minisprites/vaporeon.png)](b53f0405b1c8) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1tradebacksou.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*

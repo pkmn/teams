@@ -31,4 +31,4 @@
 | 2024-08-01 | [![Mr. Mime](https://www.smogon.com/forums/media/minisprites/mr-mime.png)![Charizard](https://www.smogon.com/forums/media/minisprites/charizard.png)![Kabutops](https://www.smogon.com/forums/media/minisprites/kabutops.png)![Moltres](https://www.smogon.com/forums/media/minisprites/moltres.png)![Raticate](https://www.smogon.com/forums/media/minisprites/raticate.png)![Venomoth](https://www.smogon.com/forums/media/minisprites/venomoth.png)](d1e663b61a74) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1nu.json) | ✗ |  |
 | 2024-08-01 | [![Charizard](https://www.smogon.com/forums/media/minisprites/charizard.png)![Golduck](https://www.smogon.com/forums/media/minisprites/golduck.png)![Kabutops](https://www.smogon.com/forums/media/minisprites/kabutops.png)![Mr. Mime](https://www.smogon.com/forums/media/minisprites/mr-mime.png)![Seadra](https://www.smogon.com/forums/media/minisprites/seadra.png)![Venusaur](https://www.smogon.com/forums/media/minisprites/venusaur.png)](eb9717072417) | [Smogon Sample Teams](https://data.pkmn.cc/teams/gen1nu.json) | ✓ |  |
 
-*Last fetched: 2026-11-04*
+*Last fetched: 2026-11-19*
